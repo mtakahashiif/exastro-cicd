@@ -1,2 +1,2 @@
-- dnf:
+- dnfx:
     name: httpd
