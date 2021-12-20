@@ -1,2 +1,7 @@
 - dnf:
     name: httpd
+
+- systemd:
+    name: httpd
+    state: started
+    enabled: yes
