@@ -1,4 +1,4 @@
-- dnfxx:
+- dnf:
     name: httpd
 
 - systemd:
